@@ -6,6 +6,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "lemmy-js-client": "^0.18.3-rc.3"
+    "lemmy-js-client": "^0.18.3-rc.3",
+    "moment": "^2.29.4"
   }
 }
